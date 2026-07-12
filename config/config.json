@@ -1,0 +1,8 @@
+{
+  "browser": "chrome",
+  "timeout": 10,
+  "base_url": "https://demoqa.com",
+  "page_load_strategy": "eager",
+  "incognito": true,
+  "maximized": true
+}
